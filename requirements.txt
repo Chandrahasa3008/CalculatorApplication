@@ -1,0 +1,4 @@
+pytest
+pyHamcrest
+pytest-bdd
+pywinauto
